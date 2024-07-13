@@ -15,4 +15,5 @@ Reference:
 Demaeyer, J., Bhend, J., Lerch, S., Primo, C., Van Schaeybroeck, B., Atencia, A., Ben Bouallègue, Z., Chen, J., Dabernig, M., Evans, G., Faganeli Pucer, J., Hooper, B., Horat, N., Jobst, D., Merše, J., Mlakar, P., Möller, A., Mestre, O., Taillardat, M., & Vannitsem, S. (2023). The EUPPBench post-processing benchmark dataset v1.0. Earth System Science Data, 15(6), 2635–2653. https://doi.org/10.5194/essd-15-2635-2023
 
 Author: Cheuk Yin Lau (Cliff)
-Organisation: MSc Data Science and Analytics, University of Leeds
+
+MSc Data Science and Analytics, University of Leeds
