@@ -1,5 +1,5 @@
 # Improving-the-Forecasting-of-Low-Visibility-Events
-This is a repository for my ongoing dissertation project as a master's student in the MSc Data Science and Analytics program at the University of Leeds, in collaboration with the UK Met Office.
+This is a repository for my master dissertation project as a student of the MSc Data Science and Analytics programme (2023-24) at the University of Leeds, in collaboration with the UK Met Office.
 
 Nowadays, our weather or atmospheric conditions are forecasted primarily using state-of-the-art physical models called Numerical Weather Prediction (NWP). However, some have suggested that the forecasts for visibility are far worse than for other atmospheric-oceanic variables.This study aims to explore various non-parametric (decision- tree-based) methods, specifically random forest regression and quantile regression forest, or model building approaches, to calibrate NWP visibility ensemble forecasts to create a determin- istic and a probabilistic forecast represented by an ensemble of predictions for calibrated visibil- ity with higher accuracy levels. The Integrated Forecasting System (IFS) ensemble forecasts for visibility from the European Centre for Medium-Range Weather Forecasts (ECMWF) with 6 to 120 hrs lead times are post-processed.
 
@@ -17,4 +17,4 @@ Demaeyer, J., Bhend, J., Lerch, S., Primo, C., Van Schaeybroeck, B., Atencia, A.
 Author: Cheuk Yin Lau (Cliff)
 
 
-MSc Data Science and Analytics, University of Leeds
+MSc Data Science and Analytics (2023-24), University of Leeds
